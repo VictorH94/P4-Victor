@@ -4,8 +4,7 @@
 -----------------------------------------------------------------------------------------
 
 L’agence La Panthère est une grande agence de web design basée à Lyon. 
-C’est une agence de webdesign qui voudrait que son site soit parmi les premiers  
-choix lors d'une recherche sur Google quand on tape  agence de webdesign sur Lyon.
+C’est une agence de webdesign qui voudrait que son site soit parmi les premiers choix lors d'une recherche sur Google quand on tape  agence de webdesign sur Lyon.
 
 Notre mission est d'optimiser le SEO et l'accessibilité de leur site web.
 
